@@ -1,0 +1,2195 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.homepage-1-vcc {
+  width: 100%;
+  height: 770rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #fafafc;
+}
+.homepage-1-vcc .auto-group-egtf-iYU {
+  width: 150rem;
+  height: 39.4rem;
+  position: absolute;
+  left: 21rem;
+  top: 343.1rem;
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-kwwk-PHE {
+  box-sizing: border-box;
+  padding: 6.5rem 4rem 5.7rem 4rem;
+  width: 48rem;
+  height: 100%;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.150000006);
+  background-color: #fafafc;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-kwwk-PHE .group-9-fkY {
+  margin: 0rem 30rem 1.9rem 0rem;
+  box-sizing: border-box;
+  padding: 1.892rem 2.419rem 1.888rem 2.5rem;
+  background-color: #d2ddca;
+  border-radius: 5rem;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-kwwk-PHE .group-9-fkY .group-Zqv {
+  width: 5.0808rem;
+  height: 6.2193rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-kwwk-PHE .drawing-class-ftx {
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-kwwk-PHE .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-mh6 {
+  margin-bottom: 1.7rem;
+  max-width: 35.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-kwwk-PHE .group-13-Qzx {
+  margin-right: 28.7rem;
+  width: calc(100% - 28.7rem);
+  display: flex;
+  align-items: center;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-kwwk-PHE .group-13-Qzx .read-more-YbN {
+  margin-right: 0.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #2c6700;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-kwwk-PHE .group-13-Qzx .vector-euJ {
+  margin-top: 0.2rem;
+  width: 1.3rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-nafh-9bA {
+  box-sizing: border-box;
+  padding: 5.8rem 4rem 5.7rem 4rem;
+  width: 48rem;
+  height: 100%;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.150000006);
+  background-color: #fafafc;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-nafh-9bA .group-10-U7e {
+  margin: 0rem 30rem 2.6rem 0rem;
+  box-sizing: border-box;
+  padding: 2.199rem 2.2rem 2.187rem 2.2rem;
+  background-color: #d2ddca;
+  border-radius: 5rem;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-nafh-9bA .group-10-U7e .group-C3e {
+  width: 5.6rem;
+  height: 5.6145rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-nafh-9bA .panting-class-Hqn {
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-nafh-9bA .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-DzL {
+  margin-bottom: 1.7rem;
+  max-width: 35.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-nafh-9bA .group-14-6YL {
+  margin-right: 28.7rem;
+  width: calc(100% - 28.7rem);
+  display: flex;
+  align-items: center;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-nafh-9bA .group-14-6YL .read-more-r1i {
+  margin-right: 0.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #2c6700;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-nafh-9bA .group-14-6YL .vector-BJt {
+  margin-top: 0.2rem;
+  width: 1.3rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-few3-5QG {
+  box-sizing: border-box;
+  padding: 5.8rem 4rem 5.7rem 4rem;
+  width: 48rem;
+  height: 100%;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.150000006);
+  background-color: #fafafc;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-few3-5QG .group-11-obA {
+  margin-bottom: 2.6rem;
+  box-sizing: border-box;
+  padding: 2rem 1.996rem 2.1rem 2.1rem;
+  width: 10rem;
+  height: 10rem;
+  background-color: #d2ddca;
+  border-radius: 5rem;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-few3-5QG .group-11-obA .group-XGG {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-few3-5QG .group-11-obA .group-XGG .auto-group-vy5d-UhJ {
+  margin: 0.309rem 0.232rem 0.341rem 0rem;
+  height: calc(100% - 0.6493rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-few3-5QG .group-11-obA .group-XGG .auto-group-vy5d-UhJ .vector-ZsA {
+  margin: 0rem 0.04rem 0.172rem 0rem;
+  width: 0.8839rem;
+  height: 3.6396rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-few3-5QG .group-11-obA .group-XGG .auto-group-vy5d-UhJ .vector-t8k {
+  width: 0.7225rem;
+  height: 1.4393rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-few3-5QG .group-11-obA .group-XGG .vector-ETW {
+  width: 4.748rem;
+  height: 5.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-few3-5QG .sketch-class-xuJ {
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-few3-5QG .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-VPS {
+  margin-bottom: 1.7rem;
+  max-width: 35.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-few3-5QG .group-15-aQt {
+  margin-right: 28.7rem;
+  width: calc(100% - 28.7rem);
+  display: flex;
+  align-items: center;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-few3-5QG .group-15-aQt .read-more-iX6 {
+  margin-right: 0.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #2c6700;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-egtf-iYU .auto-group-few3-5QG .group-15-aQt .vector-dtx {
+  margin-top: 0.2rem;
+  width: 1.3rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-ljj9-9MW {
+  box-sizing: border-box;
+  padding-bottom: 26.9rem;
+  width: 192rem;
+  height: 97rem;
+  position: absolute;
+  left: 0;
+  top: 19.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg.png');
+}
+.homepage-1-vcc .auto-group-ljj9-9MW .auto-group-tsym-FfS {
+  margin-bottom: 22.9rem;
+  box-sizing: border-box;
+  padding: 3.7rem 66.1rem 3.3rem 66.1rem;
+  width: 100%;
+  height: 9.4rem;
+  background-color: rgba(0, 0, 0, 0.400000006);
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-ljj9-9MW .auto-group-tsym-FfS .group-1-y5e {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  column-gap: 5.3rem;
+  align-items: center;
+}
+.homepage-1-vcc .auto-group-ljj9-9MW .auto-group-tsym-FfS .group-1-y5e .home-iZ2 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-ljj9-9MW .auto-group-tsym-FfS .group-1-y5e .videos-exU {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-ljj9-9MW .auto-group-tsym-FfS .group-1-y5e .download-CUC {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-ljj9-9MW .auto-group-tsym-FfS .group-1-y5e .tutorials-Ynx {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-ljj9-9MW .auto-group-tsym-FfS .group-1-y5e .contact-us-hQx {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-ljj9-9MW .get-free-drawing-and-painting-lessons-in-your-in-box-from-a-pro-artist-Rrk {
+  margin: 0rem 0.1rem 1.8rem 0rem;
+  max-width: 137.6rem;
+  text-align: center;
+  font-size: 6.5942rem;
+  font-weight: 600;
+  line-height: 1.1644796579;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-ljj9-9MW .if-youve-always-wanted-to-learn-how-to-draw-and-paint-youve-come-to-the-right-place-our-lessons-are-designed-by-highly-qualified-professionals-and-accessible-worldwide-on-any-device-any-time-of-the-day-or-night-that-suits-you-best-7Ug {
+  margin: 0rem 0.1rem 3.8rem 0rem;
+  max-width: 131.3rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-ljj9-9MW .group-6-6bW {
+  margin: 0 85.5rem;
+  width: calc(100% - 171rem);
+  height: 5.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #2c6700;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-tevb-WQL {
+  width: 171.8rem;
+  height: 13.7884rem;
+  position: absolute;
+  left: 10.2rem;
+  top: 2.3rem;
+  display: flex;
+  align-items: center;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .auto-group-qjyo-QVi {
+  box-sizing: border-box;
+  padding: 5.2rem 49.9rem 3.088rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .auto-group-qjyo-QVi .auto-group-1vpk-L8U {
+  box-sizing: border-box;
+  padding: 1.4rem 2.1rem 1.4rem 2rem;
+  height: 100%;
+  background-color: rgba(44, 103, 0, 0.200000003);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .auto-group-qjyo-QVi .auto-group-1vpk-L8U .vector-fwS {
+  width: 1.4rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .auto-group-qjyo-QVi .auto-group-mwn3-CgU {
+  box-sizing: border-box;
+  padding: 1.5rem 1.6rem 1.6rem 1.5rem;
+  height: 100%;
+  background-color: rgba(44, 103, 0, 0.200000003);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .auto-group-qjyo-QVi .auto-group-mwn3-CgU .vector-wPA {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .auto-group-qjyo-QVi .auto-group-af4j-5EU {
+  box-sizing: border-box;
+  padding: 1.7rem 1.6rem 1.8rem 1.5rem;
+  height: 100%;
+  background-color: rgba(44, 103, 0, 0.200000003);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .auto-group-qjyo-QVi .auto-group-af4j-5EU .vector-R3S {
+  width: 2.4rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .group-9k8 {
+  margin-right: 42.878rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .group-9k8 .group-Wag {
+  margin-right: 0.6893rem;
+  width: 6.9596rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .group-9k8 .group-Wag .group-4cC {
+  width: 3.0641rem;
+  height: 3.3443rem;
+  position: absolute;
+  left: 3.8955rem;
+  top: 10.444rem;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .group-9k8 .group-Wag .group-4cC .rectangle-n2Q {
+  width: 3.0641rem;
+  height: 2.9426rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-image: url('../assets/rectangle-WXe.png');
+}
+.homepage-1-vcc .auto-group-tevb-WQL .group-9k8 .group-Wag .group-4cC .rectangle-5XJ {
+  width: 0.7006rem;
+  height: 0.6819rem;
+  position: relative;
+  left: 1.9898rem;
+  top: 2.6624rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/rectangle-NwW.png');
+}
+.homepage-1-vcc .auto-group-tevb-WQL .group-9k8 .group-Wag .group-4cC .group-nAp {
+  opacity: 0.67;
+  width: 2.7605rem;
+  height: 2.653rem;
+  position: absolute;
+  left: 0.2246rem;
+  top: 0.2156rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .group-9k8 .group-Wag .group-Vb2 {
+  width: 6.0107rem;
+  height: 9.2289rem;
+  position: absolute;
+  left: 0.9135rem;
+  top: 2.409rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .group-9k8 .group-Wag .group-2ax {
+  width: 3.9616rem;
+  height: 3.6198rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .group-9k8 .group-Wag .group-2ax .vector-yFJ {
+  width: 3.0481rem;
+  height: 1.2108rem;
+  position: absolute;
+  left: 0.9134rem;
+  top: 2.409rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .group-9k8 .group-Wag .group-2ax .rectangle-uek {
+  width: 3.6339rem;
+  height: 2.6344rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-image: url('../assets/rectangle-bvc.png');
+}
+.homepage-1-vcc .auto-group-tevb-WQL .group-9k8 .group-Wag .group-2ax .rectangle-2zG {
+  width: 3.4284rem;
+  height: 2.1019rem;
+  position: relative;
+  left: 0.5325rem;
+  top: 1.448rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/rectangle.png');
+}
+.homepage-1-vcc .auto-group-tevb-WQL .group-9k8 .auto-group-p9jx-kQU {
+  margin-bottom: 0.6029rem;
+  width: 24.7731rem;
+  height: 8.8883rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .group-H9W {
+  margin: 2.012rem 0.8rem 0rem 0rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .login-bAC {
+  margin: 2.012rem 2.3rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-tevb-WQL .auto-group-xnqm-W2G {
+  margin: 5.2rem 0rem 3.088rem 0rem;
+  width: 16.8rem;
+  height: calc(100% - 8.2884rem);
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2c6700;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ {
+  box-sizing: border-box;
+  padding: 9.5rem 21rem 15.5rem 21rem;
+  width: 192rem;
+  height: 156.1rem;
+  position: absolute;
+  left: 0;
+  top: 532rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-pslf-Sq2 {
+  margin: 0rem 14rem 5.1rem 14rem;
+  width: calc(100% - 28rem);
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-pslf-Sq2 .auto-group-wabh-NCt {
+  margin-right: 2.4rem;
+  box-sizing: border-box;
+  padding: 5.9rem 4.595rem 5.9rem 4.595rem;
+  height: 100%;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.150000006);
+  background-color: #fafafc;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-pslf-Sq2 .auto-group-wabh-NCt .group-6Pn {
+  width: 10.8091rem;
+  height: 8.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-pslf-Sq2 .mask-group-1Fr {
+  margin: 0rem 2.4rem 12rem 0rem;
+  width: 26.1rem;
+  height: 3.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-pslf-Sq2 .auto-group-zlkz-L3E {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 5.2rem 3.881rem 5.1rem 3.833rem;
+  height: 100%;
+  background-color: #2c6700;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-pslf-Sq2 .auto-group-zlkz-L3E .group-sJ4 {
+  width: 12.2856rem;
+  height: 9.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-pslf-Sq2 .mask-group-bjr {
+  margin: 13.8rem 2.5rem 0rem 0rem;
+  width: 26.1rem;
+  height: 3.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-pslf-Sq2 .auto-group-ugud-XdW {
+  box-sizing: border-box;
+  padding: 5.068rem 5.1rem 5.068rem 5.2rem;
+  height: 100%;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.150000006);
+  background-color: #fafafc;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-pslf-Sq2 .auto-group-ugud-XdW .group-59E {
+  width: 9.7rem;
+  height: 9.8644rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-vbfv-arg {
+  margin: 0rem 14.2rem 1rem 14.4rem;
+  width: calc(100% - 28.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-vbfv-arg .choose-your-class-iT6 {
+  margin-right: 34.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-vbfv-arg .join-our-class-e5r {
+  margin-right: 34rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-vbfv-arg .enjoy-your-painting-ydv {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-i2bh-iLc {
+  margin: 0rem 7.85rem 21.3rem 7.85rem;
+  width: calc(100% - 15.7rem);
+  display: flex;
+  column-gap: 18.7rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-i2bh-iLc .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-37z {
+  max-width: 32.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-i2bh-iLc .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-8QL {
+  max-width: 32.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-i2bh-iLc .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-1j2 {
+  max-width: 32.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA {
+  width: 100%;
+  height: 73.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .rectangle-52-4hJ {
+  margin-right: 3rem;
+  width: 73.5rem;
+  height: 73.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .auto-group-cjh9-BX2 {
+  margin: 4.2rem 0rem 4.6rem 0rem;
+  width: 73.5rem;
+  height: calc(100% - 8.8rem);
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .auto-group-cjh9-BX2 .auto-group-vfeo-JrY {
+  box-sizing: border-box;
+  padding-bottom: 3.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .auto-group-cjh9-BX2 .auto-group-vfeo-JrY .events-Sxk {
+  margin-bottom: 0.3171rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #2c6700;
+  font-family: Great Vibes, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .auto-group-cjh9-BX2 .auto-group-vfeo-JrY .upcoming-events-and-exhibitions-from-students-n12 {
+  margin-bottom: 1.3rem;
+  max-width: 59.1rem;
+  font-size: 4.5rem;
+  font-weight: 600;
+  line-height: 1.2888888889;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .auto-group-cjh9-BX2 .auto-group-vfeo-JrY .the-elmore-organisation-was-founded-by-chris-elmore-who-started-his-first-web-site-in-2001-teaching-people-a-new-skill-they-never-thought-possible-with-his-unique-style-and-easy-to-follow-format-many-people-preferred-his-methods-over-others-due-to-its-simplicity-HyN {
+  margin-bottom: 3.2829rem;
+  max-width: 72.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .auto-group-cjh9-BX2 .auto-group-vfeo-JrY .the-student-exhibitions-VZe {
+  margin-bottom: 1.8rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .auto-group-cjh9-BX2 .auto-group-vfeo-JrY .auto-group-qc63-23n {
+  margin: 0rem 50.1rem 1.8rem 0rem;
+  width: calc(100% - 50.1rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .auto-group-cjh9-BX2 .auto-group-vfeo-JrY .auto-group-qc63-23n .vector-9eC {
+  margin-right: 1.1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .auto-group-cjh9-BX2 .auto-group-vfeo-JrY .auto-group-qc63-23n .march-20-march-2022-6JY {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .auto-group-cjh9-BX2 .auto-group-vfeo-JrY .the-elmore-organisation-was-founded-by-chris-elmore-who-started-his-first-web-site-in-2001-teaching-people-a-new-skill-they-never-thought-possible-R5v {
+  max-width: 72.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .auto-group-cjh9-BX2 .rectangle-51-Hdv {
+  margin-bottom: 3.3rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #d9d9d9;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .auto-group-cjh9-BX2 .the-student-exhibitions-Rk8 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .auto-group-cjh9-BX2 .auto-group-zugf-yFr {
+  box-sizing: border-box;
+  padding-top: 1.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .auto-group-cjh9-BX2 .auto-group-zugf-yFr .auto-group-gwu1-Jov {
+  margin: 0rem 50.1rem 1.8rem 0rem;
+  width: calc(100% - 50.1rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .auto-group-cjh9-BX2 .auto-group-zugf-yFr .auto-group-gwu1-Jov .vector-qor {
+  margin-right: 1.1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .auto-group-cjh9-BX2 .auto-group-zugf-yFr .auto-group-gwu1-Jov .march-20-march-2022-bHE {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-1agx-khJ .auto-group-ldrh-7XA .auto-group-cjh9-BX2 .auto-group-zugf-yFr .the-elmore-organisation-was-founded-by-chris-elmore-who-started-his-first-web-site-in-2001-teaching-people-a-new-skill-they-never-thought-possible-XRn {
+  max-width: 72.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 {
+  width: 148.6rem;
+  height: 88.6rem;
+  position: absolute;
+  left: 21rem;
+  top: 130.5rem;
+  display: flex;
+  align-items: center;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .group-4-vTv {
+  margin-right: 3.5rem;
+  width: 73rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .group-4-vTv .rectangle-20-s8G {
+  width: 45.1rem;
+  height: 64rem;
+  position: absolute;
+  left: 14.7rem;
+  top: 13.5rem;
+  background-color: #2c6700;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .group-4-vTv .rectangle-18-AdA {
+  width: 52.9rem;
+  height: 71.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .group-4-vTv .rectangle-21-5k8 {
+  width: 41.3rem;
+  height: 50.6rem;
+  position: absolute;
+  left: 31.7rem;
+  top: 38rem;
+  background-color: #fafafc;
+  border-radius: 2.8rem;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .group-4-vTv .rectangle-19-D5e {
+  width: 36.7rem;
+  height: 45.4rem;
+  position: absolute;
+  left: 34rem;
+  top: 40.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk {
+  margin: 12.3rem 0rem 13.1rem 0rem;
+  height: calc(100% - 25.4rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .about-drawing-made-easy-Syz {
+  margin-bottom: 0.3171rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #2c6700;
+  font-family: Great Vibes, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .learn-the-art-from-the-core-and-pursue-your-passion-aKW {
+  margin-bottom: 1.3rem;
+  max-width: 64.3rem;
+  font-size: 4.5rem;
+  font-weight: 600;
+  line-height: 1.2888888889;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .the-elmore-organisation-was-founded-by-chris-elmore-who-started-his-first-web-site-in-2001-teaching-people-a-new-skill-they-never-thought-possible-with-his-unique-style-and-easy-to-follow-format-many-people-preferred-his-methods-over-others-due-to-its-simplicity-tLC {
+  margin-bottom: 3.5rem;
+  max-width: 72.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-dwnb-Jep {
+  margin-bottom: 3.5rem;
+  display: flex;
+  column-gap: 3.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-dwnb-Jep .auto-group-vsat-EoN {
+  margin-bottom: 1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-dwnb-Jep .auto-group-vsat-EoN .item-1485-nZz {
+  font-size: 4.5rem;
+  font-weight: 600;
+  line-height: 1.2888888889;
+  color: #2c6700;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-dwnb-Jep .auto-group-vsat-EoN .happy-students-uuW {
+  margin-left: 0.1rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-dwnb-Jep .rectangle-9-2DS {
+  width: 0.2rem;
+  height: 10.1rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-dwnb-Jep .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-NYC {
+  margin-bottom: 0.1rem;
+  max-width: 41rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-hjvf-4A8 {
+  margin: 0rem 0rem 4.983rem 0.1rem;
+  display: flex;
+  column-gap: 3.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-hjvf-4A8 .auto-group-rrzs-nbv {
+  margin-bottom: 1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-hjvf-4A8 .auto-group-rrzs-nbv .item-120-Yb6 {
+  margin-left: 0.1rem;
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 600;
+  line-height: 1.2888888889;
+  color: #2c6700;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-hjvf-4A8 .auto-group-rrzs-nbv .events-exhibitions-Ti4 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-hjvf-4A8 .rectangle-22-bZN {
+  width: 0.2rem;
+  height: 10.1rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-hjvf-4A8 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-kSG {
+  margin-bottom: 0.1rem;
+  max-width: 41rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-kncx-E6Y {
+  margin-left: 0.1rem;
+  height: 5.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-kncx-E6Y .ellipse-4-ZuW {
+  margin-right: 0.8rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-4-bg.png');
+  border-radius: 2.75rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-kncx-E6Y .group-2-Hac {
+  margin: 0.7rem 2.6rem 0.7rem 0rem;
+  width: 10.3rem;
+  height: calc(100% - 1.4rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-kncx-E6Y .group-2-Hac .founder-RB2 {
+  width: 5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.3rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-kncx-E6Y .group-2-Hac .chris-elmore-Xzk {
+  width: 10.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .auto-group-rjlb-C28 .auto-group-4x6s-vkk .auto-group-kncx-E6Y .group-12-eJg {
+  width: 21rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2c6700;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-Wrg {
+  width: 81.2rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 55.35rem;
+  top: 329.9rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6111111111;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.homepage-1-vcc .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ykG {
+  width: 81.2rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 55.35rem;
+  top: 526.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6111111111;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.homepage-1-vcc .choose-the-best-class-for-you-TQY {
+  width: 69.5rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 61.2rem;
+  top: 322.7171rem;
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 600;
+  line-height: 1.2888888889;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .how-we-works-Mkp {
+  width: 33.8rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 79.05rem;
+  top: 519.0171rem;
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 600;
+  line-height: 1.2888888889;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .our-class-4v8 {
+  width: 13.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 89.05rem;
+  top: 317.4rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #2c6700;
+  font-family: Great Vibes, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .our-process-nLL {
+  width: 16.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 87.55rem;
+  top: 513.7rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #2c6700;
+  font-family: Great Vibes, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx {
+  width: 192rem;
+  height: 72.2rem;
+  position: absolute;
+  left: 0;
+  top: 233.4rem;
+  display: flex;
+  align-items: center;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY {
+  box-sizing: border-box;
+  padding: 10.1rem 11.3rem 10.1rem 21rem;
+  width: 96rem;
+  height: 100%;
+  background-color: #2c6700;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL {
+  margin-bottom: 3.5rem;
+  width: 100%;
+  height: 43rem;
+  position: relative;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-3amm-U6g {
+  width: 63.7rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 0;
+  top: 28rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-3amm-U6g .rectangle-30-bwz {
+  width: 60.3rem;
+  height: 0.6rem;
+  background-color: #000000;
+  border-radius: 1rem;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-rsvy-8h2 {
+  width: 63.7rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 0;
+  top: 35.2rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-rsvy-8h2 .rectangle-32-UVz {
+  width: 57rem;
+  height: 0.6rem;
+  background-color: #000000;
+  border-radius: 1rem;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-7nsj-QeY {
+  width: 63.7rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 0;
+  top: 42.4rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-7nsj-QeY .rectangle-34-wuN {
+  width: 54.4rem;
+  height: 0.6rem;
+  background-color: #000000;
+  border-radius: 1rem;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-gvxm-HTS {
+  box-sizing: border-box;
+  padding-bottom: 0.7rem;
+  width: 63.7rem;
+  height: 28rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-gvxm-HTS .years-of-experience-in-art-drawing-school-pCU {
+  margin-bottom: 2.5rem;
+  max-width: 57.1rem;
+  font-size: 4.5rem;
+  font-weight: 600;
+  line-height: 1.2888888889;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-gvxm-HTS .since-then-we-now-seek-out-the-most-qualified-and-talented-experts-in-their-field-to-provide-our-users-with-further-contentat-a-fraction-of-the-cost-of-traditional-methods-LAp {
+  margin-bottom: 2.9rem;
+  max-width: 59.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-gvxm-HTS .auto-group-tth9-BhE {
+  margin-right: 2.3rem;
+  width: calc(100% - 2.3rem);
+  display: flex;
+  align-items: center;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-gvxm-HTS .auto-group-tth9-BhE .drawing-vep {
+  margin-right: 49.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-gvxm-HTS .auto-group-tth9-BhE .item-90-roN {
+  margin-bottom: 0.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-sjpm-PHW {
+  width: 58.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 31.2rem;
+  display: flex;
+  align-items: center;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-sjpm-PHW .painting-iqa {
+  margin-right: 47rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-sjpm-PHW .item-85-fVv {
+  margin-bottom: 0.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-udef-oME {
+  width: 55.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 38.4rem;
+  display: flex;
+  align-items: center;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-udef-oME .sketch-9AC {
+  margin-right: 45.9rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-5-XSL .auto-group-udef-oME .item-75-gfv {
+  margin-bottom: 0.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .auto-group-hsgf-eNY .group-8-yfi .group-7-DQx {
+  width: 21rem;
+  height: 5.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #2c6700;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-e5yb-uQx .rectangle-28-VNU {
+  width: 96rem;
+  height: 72.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY {
+  width: 192rem;
+  height: 102.5rem;
+  position: absolute;
+  left: 0;
+  top: 399.6rem;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .rectangle-29-YLk {
+  width: 192rem;
+  height: 54.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2c6700;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-UVJ {
+  width: 81.2rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 55.35rem;
+  top: 21.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6111111111;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.homepage-1-vcc .auto-group-htvr-pvY .join-our-class-now-and-get-20-discount-LXW {
+  width: 94.8rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 48.55rem;
+  top: 14rem;
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 600;
+  line-height: 1.2888888889;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .register-now-X6C {
+  width: 19.8rem;
+  height: 5rem;
+  position: absolute;
+  left: 86.05rem;
+  top: 8.7rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Great Vibes, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .rectangle-30-2Yk {
+  width: 150rem;
+  height: 69.6rem;
+  position: absolute;
+  left: 21rem;
+  top: 32.9rem;
+  box-shadow: 0 0 6rem rgba(0, 0, 0, 0.150000006);
+  background-color: #fafafc;
+  border-radius: 2rem;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .rectangle-31-jCG {
+  width: 42.5rem;
+  height: 59.4rem;
+  position: absolute;
+  left: 123.8rem;
+  top: 38rem;
+  background-color: #2c6700;
+  border-radius: 2rem;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .rectangle-35-Te4 {
+  width: 46.2rem;
+  height: 6rem;
+  position: absolute;
+  left: 25.7rem;
+  top: 38rem;
+  border: solid 0.1rem #cdcdcd;
+  box-sizing: border-box;
+  background-color: #fafafc;
+  border-radius: 1rem;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .rectangle-37-aCt {
+  width: 46.2rem;
+  height: 6rem;
+  position: absolute;
+  left: 25.7rem;
+  top: 46.6rem;
+  border: solid 0.1rem #cdcdcd;
+  box-sizing: border-box;
+  background-color: #fafafc;
+  border-radius: 1rem;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .rectangle-39-VKr {
+  width: 95.2rem;
+  height: 6rem;
+  position: absolute;
+  left: 25.7rem;
+  top: 55.2rem;
+  border: solid 0.1rem #cdcdcd;
+  box-sizing: border-box;
+  background-color: #fafafc;
+  border-radius: 1rem;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .rectangle-41-QBv {
+  width: 95.2rem;
+  height: 25.5rem;
+  position: absolute;
+  left: 25.7rem;
+  top: 63.8rem;
+  border: solid 0.1rem #cdcdcd;
+  box-sizing: border-box;
+  background-color: #fafafc;
+  border-radius: 1rem;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .rectangle-36-vAG {
+  width: 46.2rem;
+  height: 6rem;
+  position: absolute;
+  left: 74.7rem;
+  top: 38rem;
+  border: solid 0.1rem #cdcdcd;
+  box-sizing: border-box;
+  background-color: #fafafc;
+  border-radius: 1rem;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .rectangle-38-S8c {
+  width: 46.2rem;
+  height: 6rem;
+  position: absolute;
+  left: 74.7rem;
+  top: 46.6rem;
+  border: solid 0.1rem #cdcdcd;
+  box-sizing: border-box;
+  background-color: #fafafc;
+  border-radius: 1rem;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-16-YSY {
+  width: 21rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 25.7rem;
+  top: 91.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2c6700;
+  border-radius: 3rem;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .first-name-DHn {
+  width: 8.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 27.7rem;
+  top: 39.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .last-name-jG8 {
+  width: 8.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 76.7rem;
+  top: 39.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .email-address-SgL {
+  width: 11.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 27.7rem;
+  top: 48.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .phone-number-A6Y {
+  width: 11.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 76.7rem;
+  top: 48.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .select-class-5UQ {
+  width: 9.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 27.7rem;
+  top: 57rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .your-message-zLU {
+  width: 11.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 27.7rem;
+  top: 65.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8c8c8c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .vector-stroke-68c {
+  width: 1.15rem;
+  height: 0.65rem;
+  position: absolute;
+  left: 117.7rem;
+  top: 57.95rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt {
+  width: 36.1rem;
+  height: 41.9rem;
+  position: absolute;
+  left: 127rem;
+  top: 46.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-vkzo-YFW {
+  box-sizing: border-box;
+  padding-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-vkzo-YFW .dont-hesitate-to-contact-us-if-you-have-any-question-VAk {
+  margin: 0rem 0rem 2rem 0.6rem;
+  max-width: 34.1rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-vkzo-YFW .auto-group-w6qd-B3a {
+  margin: 0rem 1.4rem 2.3rem 0rem;
+  width: calc(100% - 1.4rem);
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-vkzo-YFW .auto-group-w6qd-B3a .auto-group-q2ym-6AY {
+  margin: 0.7rem 1.2rem 0.7rem 0rem;
+  width: 3.6rem;
+  height: calc(100% - 1.4rem);
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5625;
+  color: #2c6700;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #efeff1;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-vkzo-YFW .auto-group-w6qd-B3a .provide-high-quality-drawing-lessons-in-an-easy-format-98p {
+  max-width: 29.9rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5625;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-vkzo-YFW .auto-group-hye7-4Fn {
+  margin: 0rem 2.4rem 2.3rem 0rem;
+  width: calc(100% - 2.4rem);
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-vkzo-YFW .auto-group-hye7-4Fn .auto-group-8ibh-nSg {
+  margin: 0.7rem 1.2rem 0.7rem 0rem;
+  width: 3.6rem;
+  height: calc(100% - 1.4rem);
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5625;
+  color: #2c6700;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #efeff1;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-vkzo-YFW .auto-group-hye7-4Fn .be-a-trusted-source-by-working-with-the-best-49J {
+  max-width: 28.9rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5625;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-vkzo-YFW .auto-group-r4vt-n5J {
+  margin-right: 4.2rem;
+  width: calc(100% - 4.2rem);
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-vkzo-YFW .auto-group-r4vt-n5J .auto-group-3p8w-Wmz {
+  margin: 0.7rem 1.2rem 0.7rem 0rem;
+  width: 3.6rem;
+  height: calc(100% - 1.4rem);
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5625;
+  color: #2c6700;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #efeff1;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-vkzo-YFW .auto-group-r4vt-n5J .give-others-a-new-skill-they-never-thought-possible-Bt8 {
+  max-width: 27.1rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5625;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .rectangle-49-6VJ {
+  width: 100%;
+  height: 0.1rem;
+  background-color: #fafafc;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-hkqd-T4x {
+  box-sizing: border-box;
+  padding: 2.7rem 0.3rem 0rem 0.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-hkqd-T4x .auto-group-dnat-BWk {
+  margin: 0rem 11.4rem 1.4rem 0.4rem;
+  width: calc(100% - 11.8rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-hkqd-T4x .auto-group-dnat-BWk .auto-group-nvby-KN4 {
+  margin: 0.3rem 1.1rem 0rem 0rem;
+  width: 3rem;
+  height: 2.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-hkqd-T4x .auto-group-dnat-BWk .efactory-llc-103-s-3rd-stfairfield-ia-52556-usa-3J4 {
+  max-width: 19.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5625;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-hkqd-T4x .auto-group-tgfq-Lnx {
+  margin-right: 5.4rem;
+  width: calc(100% - 5.4rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-hkqd-T4x .auto-group-tgfq-Lnx .vector-5Ve {
+  margin-right: 1.5rem;
+  width: 3rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-htvr-pvY .group-143-RAt .auto-group-hkqd-T4x .auto-group-tgfq-Lnx .infodrawing-made-easycom-Drk {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5625;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 {
+  box-sizing: border-box;
+  padding: 5.8rem 14.9rem 2.8rem 14.9rem;
+  width: 192.2rem;
+  height: 81.9rem;
+  position: absolute;
+  left: 0;
+  top: 688.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .group-356 {
+  margin: 0rem 58.498rem 8.1rem 58.52rem;
+  width: calc(100% - 117.0181rem);
+  height: 19.3rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .group-356 .group-9tp {
+  margin-right: 0.9649rem;
+  width: 9.7415rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .group-356 .group-9tp .group-Vxg {
+  width: 4.2889rem;
+  height: 4.6812rem;
+  position: absolute;
+  left: 5.4526rem;
+  top: 14.6188rem;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .group-356 .group-9tp .group-Vxg .rectangle-iqS {
+  width: 4.2889rem;
+  height: 4.1189rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-image: url('../assets/rectangle-D88.png');
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .group-356 .group-9tp .group-Vxg .rectangle-dhW {
+  width: 0.9807rem;
+  height: 0.9545rem;
+  position: relative;
+  left: 2.7852rem;
+  top: 3.7267rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/rectangle-rR2.png');
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .group-356 .group-9tp .group-Vxg .group-YJg {
+  opacity: 0.67;
+  width: 3.8639rem;
+  height: 3.7135rem;
+  position: absolute;
+  left: 0.3144rem;
+  top: 0.3019rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .group-356 .group-9tp .group-TgY {
+  width: 8.4134rem;
+  height: 12.9179rem;
+  position: absolute;
+  left: 1.2787rem;
+  top: 3.3719rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .group-356 .group-9tp .group-Mmv {
+  width: 5.5451rem;
+  height: 5.0667rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .group-356 .group-9tp .group-Mmv .vector-hqn {
+  width: 4.2666rem;
+  height: 1.6948rem;
+  position: absolute;
+  left: 1.2785rem;
+  top: 3.3719rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .group-356 .group-9tp .group-Mmv .rectangle-SYU {
+  width: 5.0865rem;
+  height: 3.6874rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-image: url('../assets/rectangle-ZTr.png');
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .group-356 .group-9tp .group-Mmv .rectangle-AjN {
+  width: 4.7988rem;
+  height: 2.9421rem;
+  position: relative;
+  left: 0.7453rem;
+  top: 2.0267rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/rectangle-vKn.png');
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .group-356 .auto-group-xvwm-gSp {
+  margin-bottom: 0.844rem;
+  width: 34.6755rem;
+  height: 12.4411rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-udvp-crG {
+  margin: 0rem 7.8rem 0.5rem 7.8rem;
+  width: calc(100% - 15.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-udvp-crG .quick-links-YE8 {
+  margin-right: 23.2rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 2.8571428571;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-udvp-crG .classes-fpY {
+  margin-right: 28.3rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 2.8571428571;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-udvp-crG .contact-QXE {
+  margin-right: 32.5rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 2.8571428571;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-udvp-crG .follow-us-YdS {
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 2.8571428571;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-du2x-H5E {
+  margin: 0rem 8.6rem 4.6rem 7.8rem;
+  width: calc(100% - 16.4rem);
+  height: 25rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-du2x-H5E .home-videos-download-tutorials-contact-us-CCC {
+  margin-right: 31.1rem;
+  max-width: 11.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-du2x-H5E .drawing-class-painting-class-sketch-class-WTn {
+  max-width: 14.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-du2x-H5E .auto-group-aauf-qFA {
+  box-sizing: border-box;
+  padding-left: 27.6rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-du2x-H5E .auto-group-aauf-qFA .auto-group-b2n3-muW {
+  margin-right: 14.9rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-du2x-H5E .auto-group-aauf-qFA .auto-group-b2n3-muW .efactory-llc-103-s-3rd-stfairfield-ia-52556-usa-vnQ {
+  margin-bottom: 1.8rem;
+  max-width: 24.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-du2x-H5E .auto-group-aauf-qFA .auto-group-b2n3-muW .infodrawing-made-easycom-EYC {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-du2x-H5E .auto-group-aauf-qFA .group-142-ZaU {
+  margin-top: 0.8569rem;
+  height: 4.6862rem;
+  display: flex;
+  column-gap: 0.5207rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-du2x-H5E .auto-group-aauf-qFA .group-142-ZaU .auto-group-irby-hRn {
+  box-sizing: border-box;
+  padding: 1.172rem 1.302rem 1.172rem 1.302rem;
+  height: 100%;
+  background-color: #1a1a1a;
+  border-radius: 2.3431rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-du2x-H5E .auto-group-aauf-qFA .group-142-ZaU .auto-group-irby-hRn .mask-group-Egc {
+  width: 2.0828rem;
+  height: 2.3431rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-du2x-H5E .auto-group-aauf-qFA .group-142-ZaU .auto-group-rdsx-MWL {
+  box-sizing: border-box;
+  padding: 1.302rem 1.302rem 1.302rem 1.302rem;
+  height: 100%;
+  background-color: #1a1a1a;
+  border-radius: 2.3431rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-du2x-H5E .auto-group-aauf-qFA .group-142-ZaU .auto-group-rdsx-MWL .mask-group-tFN {
+  width: 2.0828rem;
+  height: 2.0828rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-du2x-H5E .auto-group-aauf-qFA .group-142-ZaU .auto-group-cnej-Cmr {
+  box-sizing: border-box;
+  padding: 1.302rem 1.302rem 1.302rem 1.302rem;
+  height: 100%;
+  background-color: #1a1a1a;
+  border-radius: 2.3431rem;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .auto-group-du2x-H5E .auto-group-aauf-qFA .group-142-ZaU .auto-group-cnej-Cmr .mask-group-YKv {
+  width: 2.0828rem;
+  height: 2.0828rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .line-12-TSt {
+  margin-bottom: 2.2rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #1f2222;
+  flex-shrink: 0;
+}
+.homepage-1-vcc .auto-group-zfq9-Ye8 .copyrighted-by-drawing-made-easy-all-right-reserved-CQU {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

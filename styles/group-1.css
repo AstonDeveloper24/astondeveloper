@@ -1,0 +1,72 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 59.8rem;
+}.group-1-2K6 {
+  width: 100%;
+  display: flex;
+  column-gap: 5.3rem;
+  align-items: center;
+}
+.group-1-2K6 .home-L4t {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-1-2K6 .videos-rJ8 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-1-2K6 .download-BrC {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-1-2K6 .tutorials-vHz {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-1-2K6 .contact-us-sDE {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
